@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+  <rect x="4" y="4" width="112" height="112" rx="22" fill="#f4efe4" stroke="#1c1a17" stroke-width="4"/>
+  <rect x="22" y="22" width="76" height="6" fill="#1c1a17"/>
+  <rect x="22" y="32" width="76" height="2" fill="#1c1a17"/>
+  <path d="M24 43 H33 L54 71 H45 Z" fill="#1c1a17"/>
+  <path d="M50 43 H55 L29 71 H24 Z" fill="#1c1a17"/>
+  <rect x="64" y="45" width="34" height="4" rx="1" fill="#b8412c"/>
+  <rect x="64" y="55" width="28" height="3" rx="1" fill="#2e4a62"/>
+  <rect x="64" y="64" width="32" height="3" rx="1" fill="#8a8172"/>
+  <line x1="22" y1="80" x2="98" y2="80" stroke="#1c1a17" stroke-width="1.5"/>
+  <text x="60" y="96" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="13" font-weight="700" letter-spacing="2" fill="#1c1a17">SNOW·X</text>
+</svg>
